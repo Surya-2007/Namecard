@@ -1,0 +1,23 @@
+body{
+    font-family:Verdana,Geneva,Tahoma,sans-serif;
+    background: linear-gradient(to top,orange 0%,tomato 100%);
+
+}
+div{
+    background-color: white;
+    margin:100px 300px 100px 300px;
+    text-align: center;
+    padding:30px;
+}
+/*Type selctor*/
+img{
+    height:150px;
+    width: 150px;
+    border:3px solid orange;
+    border-radius: 50%;
+
+}
+hr{
+    width:400px;
+    color:gray;
+}
